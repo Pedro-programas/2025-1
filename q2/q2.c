@@ -6,7 +6,6 @@ int potencia(int base, int expoente){
     }
     return resultado;
 }
-
 int main(){
     int base, expoente;
     printf("Digite a base e o expoente ");
